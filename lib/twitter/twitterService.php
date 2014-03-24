@@ -175,7 +175,7 @@ class twitterService
       }
       else
       {
-        sfContext::getInstance()->getLogger()->err('No follower ids found in response.);
+        sfContext::getInstance()->getLogger()->err('No follower ids found in response.');
         return 'unavailable at this time';
       }
     }
