@@ -1,0 +1,4 @@
+_followerCount:
+  contextual: true
+  enabled: true
+  lifetime: 86400
